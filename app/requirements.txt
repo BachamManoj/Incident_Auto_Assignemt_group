@@ -1,5 +1,5 @@
 pandas
 scikit-learn
-tensorflow
+tensorflow==2.15.0
 flask
 openpyxl
